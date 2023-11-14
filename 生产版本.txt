@@ -1,0 +1,1 @@
+https://cnnorth4-cloudide-marketplace.obs.cn-north-4.myhuaweicloud.com/codearts/linux/arm64/latest/codearts-java-arm64-linux-2.2.2-35b8d77.deb
